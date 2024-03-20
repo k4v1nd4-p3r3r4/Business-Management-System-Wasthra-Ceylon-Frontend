@@ -1,0 +1,11 @@
+.inventory {
+  display: flex;
+  width: 100%;
+  background-color: #faf9f6;
+  .inventoryContainer {
+    flex: 6;
+    .tabcontainer {
+      margin: 10px;
+    }
+  }
+}
